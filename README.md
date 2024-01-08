@@ -3,10 +3,10 @@ Welcome to Odyssey: Dungeon Crawler Adventure – an epic journey where you embo
 
 ## How to play
 - Movement:
-- Use W, A, S, D keys to navigate your character through the dungeon.
+  Use W, A, S, D keys to navigate your character through the dungeon.
   
 - Attack:
-- Press Z to unleash your character's primary attack on enemies.
+  Press Z to unleash your character's primary attack on enemies.
  
 - Power-ups:
 Collect various power-ups to enhance your abilities:
