@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/backgroundImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/main" />
+
+    <ImageButton
+        android:id="@+id/buttonStart"
+        android:layout_width="150dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="370dp"
+        android:scaleType="centerInside"
+        app:srcCompat="@drawable/startimage"
+        android:background="@android:color/transparent"/>
+
+    <ImageButton
+        android:id="@+id/buttonExit"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="230dp"
+        android:layout_marginTop="375dp"
+        android:scaleType="centerInside"
+        app:srcCompat="@drawable/exitimage"
+        android:background="@android:color/transparent"/>
+
+</RelativeLayout>
