@@ -8,13 +8,13 @@ Welcome to Odyssey: Dungeon Crawler Adventure – an epic journey where you embo
 - Attack:
 - - Press Z to unleash your character's primary attack on enemies.
  
--Power-ups:
+- Power-ups:
 Collect various power-ups to enhance your abilities:
-Health Boost: Replenishes your character's health.
-Score Booster: Multiplies your score for a limited time.
-Nuke: Wipes out all enemies on the screen.
+1) Health Boost: Replenishes your character's health.
+2) Score Booster: Multiplies your score for a limited time.
+3) Nuke: Wipes out all enemies on the screen.
 
--Change Movement Speed:
+- Change Movement Speed:
 Adjust your character's speed using dedicated buttons for a strategic advantage.
 Next Room:
 
